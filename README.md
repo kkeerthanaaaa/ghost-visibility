@@ -190,7 +190,6 @@ READY
 ```
 
 ---
-
 ## 👐 Two-Hand Gesture
 
 An optional two-hand interaction is also supported.
